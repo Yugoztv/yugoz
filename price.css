@@ -1,0 +1,10 @@
+body{background-color: white;}
+.container{width: 80%; margin: auto;}
+.box-1{background-color: #333;
+color: white; 
+border-right: 5px red solid;
+border-left: 5px red solid;
+border-top: 10px red solid;
+border-bottom: 10px red solid;
+padding: 40px;
+margin: 20px;}
